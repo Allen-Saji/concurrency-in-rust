@@ -43,6 +43,7 @@ prime.exe
 ## Examples
 
 - **prime.rs** - Parallel prime number counter using atomic operations and thread pools
+- **tcp_server.rs** - Multi-Threaded tcp server that uses thread pool
 
 More examples coming soon!
 
@@ -53,5 +54,3 @@ More examples coming soon!
 Install Rust from [rustup.rs](https://rustup.rs/)
 
 ---
-
-Feel free to explore, experiment, and learn!
