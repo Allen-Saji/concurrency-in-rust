@@ -44,6 +44,7 @@ prime.exe
 
 - **prime.rs** - Parallel prime number counter using atomic operations and thread pools
 - **tcp_server.rs** - Multi-Threaded tcp server that uses thread pool
+- **queue.rs** - Multi-Threaded and safe implementation of queues
 
 More examples coming soon!
 
